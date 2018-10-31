@@ -1,0 +1,15 @@
+﻿<Properties StartupConfiguration="{310813FD-D82E-492E-B7C0-F4D7EABCCA80}|Default">
+  <MonoDevelop.Ide.ItemProperties.sistemacomparacao PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="sistemacomparacao/Program.cs">
+    <Files>
+      <File FileName="sistemacomparacao/Program.cs" Line="15" Column="61" />
+      <File FileName="sistemacomparacao/Comparacao.cs" Line="10" Column="31" NotebookId="1" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MultiItemStartupConfigurations />
+</Properties>

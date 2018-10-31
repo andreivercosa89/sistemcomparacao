@@ -1,0 +1,11 @@
+/Users/aluno/Projects/sistemacomparacao/sistemacomparacao/bin/Debug/netcoreapp2.1/sistemacomparacao.deps.json
+/Users/aluno/Projects/sistemacomparacao/sistemacomparacao/bin/Debug/netcoreapp2.1/sistemacomparacao.runtimeconfig.json
+/Users/aluno/Projects/sistemacomparacao/sistemacomparacao/bin/Debug/netcoreapp2.1/sistemacomparacao.runtimeconfig.dev.json
+/Users/aluno/Projects/sistemacomparacao/sistemacomparacao/bin/Debug/netcoreapp2.1/sistemacomparacao.dll
+/Users/aluno/Projects/sistemacomparacao/sistemacomparacao/bin/Debug/netcoreapp2.1/sistemacomparacao.pdb
+/Users/aluno/Projects/sistemacomparacao/sistemacomparacao/obj/Debug/netcoreapp2.1/sistemacomparacao.csprojAssemblyReference.cache
+/Users/aluno/Projects/sistemacomparacao/sistemacomparacao/obj/Debug/netcoreapp2.1/sistemacomparacao.csproj.CoreCompileInputs.cache
+/Users/aluno/Projects/sistemacomparacao/sistemacomparacao/obj/Debug/netcoreapp2.1/sistemacomparacao.AssemblyInfoInputs.cache
+/Users/aluno/Projects/sistemacomparacao/sistemacomparacao/obj/Debug/netcoreapp2.1/sistemacomparacao.AssemblyInfo.cs
+/Users/aluno/Projects/sistemacomparacao/sistemacomparacao/obj/Debug/netcoreapp2.1/sistemacomparacao.dll
+/Users/aluno/Projects/sistemacomparacao/sistemacomparacao/obj/Debug/netcoreapp2.1/sistemacomparacao.pdb
